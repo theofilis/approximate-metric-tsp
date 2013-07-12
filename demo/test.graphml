@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <key attr.name="x" attr.type="int" for="node" id="d1" />
+  <key attr.name="y" attr.type="int" for="node" id="d2" />
+  <graph edgedefault="undirected">
+    <data key="d0">CLRS</data>
+    <node id="0" >
+      <data key="d1">1</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="1" >
+      <data key="d1">1</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="2" >
+      <data key="d1">0</data>
+      <data key="d2">1</data>
+    </node>
+    <node id="3" >
+      <data key="d1">3</data>
+      <data key="d2">4</data>
+    </node>
+    <node id="4" >
+      <data key="d1">5</data>
+      <data key="d2">3</data>
+    </node>
+    <node id="5" >
+      <data key="d1">3</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="6" >
+      <data key="d1">5</data>
+      <data key="d2">2</data>
+    </node>
+    <node id="7" >
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </node>
+  </graph>
+</graphml>
