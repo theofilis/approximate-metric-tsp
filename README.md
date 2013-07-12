@@ -1,7 +1,7 @@
-Approximate-metrix-TSP
+Approximate-metric-TSP
 ======================
 
-Approximate metrix TSP
+Approximate metric TSP
 
 Implematation of approximation algorithm for metric TSP on Introduction in Algorithms, Cormen, Rivest, Leiserson, Stein
 
