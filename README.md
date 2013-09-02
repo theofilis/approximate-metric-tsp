@@ -1,4 +1,4 @@
-Approximate-metric-TSP[![Build Status](https://travis-ci.org/theofilis/ApproximateMetricTSP.png)](https://travis-ci.orgtheofilis/ApproximateMetricTSP)
+Approximate-metric-TSP[![Build Status](https://travis-ci.org/theofilis/ApproximateMetricTSP.png)](https://travis-ci.org/theofilis/ApproximateMetricTSP)
 ======================
 
 Approximate metric TSP
